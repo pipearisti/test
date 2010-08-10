@@ -4,3 +4,5 @@ Working on the master branch
 
 This needs to be merged to the final version
 At the end of the file
+
+More thing added - compare with the remote branch
