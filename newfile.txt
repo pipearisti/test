@@ -1,1 +1,4 @@
+Change the abc.txt file
+
+Delete this line
 Do some changes in the newfile.txt
